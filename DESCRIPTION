@@ -1,0 +1,16 @@
+Encoding: UTF-8
+Package: cmudict
+Type: Package
+Title: Data package containing a few pronunciation dictionaries
+Version: 1.0.0-0
+Authors@R: c(person("Trevor L", "Davis", role = c("aut", "cre"), email="trevor.l.davis@gmail.com"),
+    person("Carnegie Mellon University", role="cph"),
+    person("Reece H. Dunn", role="aut"))
+Description: Data package containing a few pronunciation dictionaries.
+License: BSD_2_clause + file LICENSE
+Copyright: See file (inst/)COPYRIGHTS.
+URL: https://github.com/trevorld/cmudict
+BugReports: https://github.com/trevorld/cmudict/issues
+Suggests: testthat
+LazyLoad: yes
+RoxygenNote: 6.1.0

@@ -1,0 +1,12 @@
+[submodule "data-raw/cmudict"]
+	path = data-raw/cmudict
+	url = git@github.com:cmusphinx/cmudict.git
+[submodule "en-GB-x-rp.dict"]
+	path = data-raw/en-GB-x-rp.dict
+	url = git@github.com:rhdunn/en-GB-x-rp.dict.git
+[submodule "data-raw/amepd"]
+	path = data-raw/amepd
+	url = git@github.com:rhdunn/amepd.git
+[submodule "data-raw/en-scotland.dict"]
+	path = data-raw/en-scotland.dict
+	url = git@github.com:rhdunn/en-scotland.dict.git
